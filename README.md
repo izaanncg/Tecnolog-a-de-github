@@ -29,3 +29,6 @@ Para el proyecto se creó una rama secundaria donde se hicieron varios commits a
    Se añadieron las dos secciones con sus columnas y el contenido.
 4. **Footer y revisión final**  
    Se añadió el pie de página y se corrigieron pequeños detalles.
+
+## Mayor dificultad encontrada
+Lo que más me costó fue ajustar las columnas para que se vieran bien en pantallas pequeñas. Pero usando las clases col-md-* se solucionó.
