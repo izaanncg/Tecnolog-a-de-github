@@ -17,3 +17,15 @@ La página está dividida en:
 - Clases de espaciado (py-5, mb-4…)
 - Clases de color (bg-dark, bg-light, text-white…)
 - Botón del menú responsive
+
+## Commits realizados y mejoras
+Para el proyecto se creó una rama secundaria donde se hicieron varios commits antes de fusionarla con la principal. Los commits más importantes fueron:
+
+1. **Estructura inicial del proyecto**  
+   Se creó el archivo index.html y se añadió el bootstrap.
+2. **Navbar y hero añadidos**  
+   Se añadió el menú y la parte principal de la página.
+3. **Secciones de información y programación**  
+   Se añadieron las dos secciones con sus columnas y el contenido.
+4. **Footer y revisión final**  
+   Se añadió el pie de página y se corrigieron pequeños detalles.
